@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -118,7 +117,7 @@
 <body>
 
 <header>
-  <h1>Primal's Playground VR</h1>
+  <h1>Ultimate GloveBall</h1>
   <p>Multiplayer VR Shooter — Fight. Survive. Dominate.</p>
 </header>
 
@@ -129,13 +128,13 @@
 </nav>
 
 <section id="game-info" tabindex="0" aria-label="Game Information Section">
-  <h2>About Primal's Playground VR</h2>
-  <p>Step into the world of Ultimate GloveBall — a thrilling multiplayer arena built for VR platforms. Immerse yourself in fast-paced, tactical combat where every balll counts. Connect with players globally, show off your skills, and climb the leaderboard. Featuring smooth, intuitive controls and realistic ball handling, Ultimate GloveBall offers the ultimate VR Esport experience.</p>
+  <h2>About Ultimate GloveBall</h2>
+  <p>Step into the world of Ultimate GloveBall — a thrilling multiplayer arena built for VR platforms. Immerse yourself in fast-paced, tactical combat where every ball counts. Connect with players globally, show off your skills, and climb the leaderboard. Featuring smooth, intuitive controls and realistic ball handling, Ultimate GloveBall offers the ultimate VR Esport experience.</p>
 
   <p><strong>Key Features:</strong></p>
   <ul>
     <li>Dynamic multiplayer matches with real-time voice chat.</li>
-    <li>Wide variety of customizable ball and icon's.</li>
+    <li>Wide variety of customizable ball and icons.</li>
     <li>Advanced movement mechanics for VR agility.</li>
     <li>Regular updates with new maps, and events.</li>
     <li>Fair play focus with built-in anti-cheat technology.</li>
@@ -174,7 +173,7 @@
   <h3>3. How We Share Your Information</h3>
   <p>Your privacy is important. We only share your data in the following limited ways:</p>
   <ul>
-    <li><strong>Third-party multiplayer services:</strong> We use trusted providers like Photon or Normcore for multiplayer infrastructure. These providers receive only the data necessary to connect players and maintain matches.</li>
+    <li><strong>Third-party multiplayer services:</strong> We use trusted networking platforms (such as Photon, Normcore, or similar services) to power online multiplayer features. These providers only receive the minimum necessary data to connect players, manage sessions, and maintain game stability.</li>
     <li><strong>Legal requirements:</strong> We may disclose your information to comply with legal obligations, court orders, or government requests.</li>
     <li><strong>Protection of rights:</strong> We may share information to protect the rights, safety, or property of RatcatcherVR, our players, or others.</li>
   </ul>
@@ -194,7 +193,7 @@
   <p>To exercise these rights or ask questions about your data, please contact us at <a href="mailto:ratcatchervr@gmail.com">ratcatchervr@gmail.com</a>. We will respond promptly and in accordance with applicable law.</p>
 
   <h3>6. Children’s Privacy</h3>
-  <p>PUltimate GloveBall is intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we learn we have collected such data, we will delete it immediately.</p>
+  <p>Ultimate GloveBall is intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we learn we have collected such data, we will delete it immediately.</p>
 
   <h3>7. Changes to This Privacy Policy</h3>
   <p>We may update this policy occasionally to reflect changes in our practices or legal requirements. When we do, we will update the effective date and notify users via in-game announcements or website notices. We encourage you to review this policy regularly.</p>
